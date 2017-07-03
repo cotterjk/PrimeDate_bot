@@ -38,6 +38,6 @@ if __name__=="__main__":
     date = time.strftime("%m/%d/%y")
     dateint = int(time.strftime("%m%d%y"))
 
-    tweet = 'Today is ' + date + '. ' + dateint + ' is ' + getStringFromFactors(getAllFactorsFor(dateint))
+    tweet = 'Today is ' + date + '. ' + str(dateint) + ' is ' + getStringFromFactors(getAllFactorsFor(dateint))
     print (tweet)
     api.PostUpdate(tweet)
