@@ -30,6 +30,8 @@ def getStringFromFactors(factors):
             if i != (len(factors)-1):
                 factorstr += ' x '
         factorstr += '.'
+        if len(factors) == 2:
+            factorstr += ' That\'s semiprime!'
     return factorstr
 
 if __name__=="__main__":
