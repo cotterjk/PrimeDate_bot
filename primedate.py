@@ -37,6 +37,7 @@ if __name__=="__main__":
 
     date = time.strftime("%m/%d/%y")
     dateint = int(time.strftime("%m%d%y"))
+    dateint = 70117
 
     tweet = 'Today is ' + date + '. ' + str(dateint) + ' is ' + getStringFromFactors(getAllFactorsFor(dateint))
     print (tweet)
