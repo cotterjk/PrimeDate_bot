@@ -1,1 +1,1 @@
-worker: python ebooks.py
+tweet: python primedate.py
