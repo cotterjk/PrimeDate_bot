@@ -22,7 +22,7 @@ def getAllFactorsFor(remainder):
 
 def getStringFromFactors(factors):
     factorstr = ''
-    if len(factors) == 1:
+    if len(factors) == 0:
         factorstr = 'prime. Cool!'
     else:
         for i in range(len(factors)):
