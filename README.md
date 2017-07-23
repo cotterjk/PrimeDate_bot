@@ -7,7 +7,7 @@ not only can every integer greater than 1 be represented as a product of primes,
 
 My first bot, this is meant to illustrate how each day is similarly special and singular.
 
-(At least, within its century, based on how I'm taking dates.)
+(—at least within its century, based on how I'm taking dates.)
 
 Watch it go [@primedate_bot](https://twitter.com/primedate_bot)
 
