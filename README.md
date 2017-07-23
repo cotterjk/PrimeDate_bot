@@ -1,6 +1,9 @@
 # Prime Factorization Of The Date, Twitter Bot
 
-A twitter bot that, each morning, tweets the prime factorization of the date converted to a whole number. According to the [Fundamental theorem of arithmetic](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic), states that "that every integer greater than 1 either is prime itself or is the product of prime numbers, and that this product is unique." This quick bot is meant to illustrate how each day is similarly special.
+A twitter bot that, each morning, tweets the prime factorization of the date converted to a whole number. (For example, December 25, 1996 becomes 122596.)
+According to the [Fundamental theorem of arithmetic](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic), states that "that every integer greater than 1 either is prime itself or is the product of prime numbers, and that this product is unique." (122596 = 2 x 2 × 30649)
+
+My first bot, this is meant to illustrate how each day is similarly special.
 
 Watch it go [@primedate_bot](https://twitter.com/primedate_bot)
 
