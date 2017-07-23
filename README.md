@@ -1,4 +1,4 @@
-# Fundamentally Prime Days
+# Today in Primes—Fundamentally Unique
 
 A twitter bot that, each morning, tweets the prime factorization of the date converted to a whole number. (For example, December 25, 1996 becomes 122596.)
 
